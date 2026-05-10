@@ -27,6 +27,4 @@ It’s about turning a potential legal problem into an aesthetic choice. It’s 
 
 Origin
 
-Coined: 2026
-
 This term was created to give a name to the specific "dance" creative pros have to do in a world full of protected IP. This repo is the official home and point of origin for the word blurfusicate. Use it, spread it, and keep swerving.
